@@ -1,4 +1,4 @@
-name: build-test-deploy
+name: build-test-deploy2.0
 jobs:
   build:
     runs-on: ubuntu-latest
