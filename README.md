@@ -6,7 +6,7 @@ To follow along with the step-by-step instructions in the Essentials module, you
 1. Click *Use this template* above the file list and select **Create a new repositoryl**.
 2. Use the **Owner** dropdown menu to select the account you want to own the repository. 
 3. Name your repositry `actions-learning-pathway` and add a simple description to make it easier to identify later.
-4. Set the default visibility for the repo to public, as private repositories use Actions minutes, while public repositories can use GitHub-hosted runners for free.
+4. Set the default visibility for thee repo to public, as private repositories use Actions minutes, while public repositories can use GitHub-hosted runners for free.
 
 Click Create repository from template and we’re ready to build our first Actions workflow!
 
